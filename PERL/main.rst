@@ -1,9 +1,8 @@
 **************
-IBM's AIX Unix
+Perl Scripting
 **************
 
 ..  toctree::
     :maxdepth: 2
 
     introduction.rst    
-    packaging.rst
