@@ -3,8 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to truth's documentation!
-=================================
+.. figure:: Dexter.png
+   :height: 400px
+   :width: 225px
+
+   "I dedicate ALL these documentations to my 2 year old son Eigenfield!"
+
+Chronicles Of An IT Specialist
+==============================
 
 Contents:
 
@@ -14,7 +20,12 @@ Contents:
     AIX/main.rst
     LINUX/main.rst
     DOCKER/main.rst
-
+    SOFTLAYER/main.rst
+    PYTHON/main.rst
+    BASH/main.rst
+    CCPP/main.rst
+    PERL/main.rst
+    
 Indices and tables
 ==================
 
