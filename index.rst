@@ -9,10 +9,8 @@
 
    "I dedicate ALL these documentations to my 2 year old son Eigenfield!"
 
-Chronicles Of An IT Specialist
-==============================
-
 Contents:
+=========
 
 ..  toctree::
     :maxdepth: 2
