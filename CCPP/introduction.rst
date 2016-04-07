@@ -1,6 +1,6 @@
-*************************
-C/C++ Systems Programming
-*************************
+**********
+The Basics
+**********
 
 ..  toctree::
     :maxdepth: 2

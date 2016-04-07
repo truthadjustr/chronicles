@@ -1,6 +1,6 @@
-****************
-Python Scripting
-****************
+*******************
+Setup Best Practice
+*******************
 
 ..  toctree::
     :maxdepth: 2

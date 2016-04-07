@@ -1,5 +1,6 @@
-The Basics
-==========
+*****************************************
+Cool for the young, painful for old farts
+*****************************************
 
 Let us start with bits and bytes. 
 

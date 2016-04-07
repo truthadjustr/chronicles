@@ -1,6 +1,6 @@
-********************
-Bash Shell Scripting
-********************
+***************
+Some Techniques
+***************
 
 ..  toctree::
     :maxdepth: 2
