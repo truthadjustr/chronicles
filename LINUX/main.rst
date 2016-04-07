@@ -7,3 +7,7 @@ Linux
 
     introduction.rst
 
+Differences versus AIX
+======================
+
+oeuoue

@@ -17,7 +17,6 @@ Contents:
 
     AIX/main.rst
     LINUX/main.rst
-    DOCKER/main.rst
     PYTHON/main.rst
     BASH/main.rst
     CCPP/main.rst

@@ -1,4 +1,5 @@
-Welcome
-=======
+***
+LXC 
+***
 
-This is a topic.
+It's all about **namespaces** and **control groups**.
