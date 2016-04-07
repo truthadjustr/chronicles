@@ -1,9 +1,9 @@
-**************
-IBM's AIX Unix
-**************
+********
+AIX Unix
+********
 
 ..  toctree::
     :maxdepth: 2
 
-    introduction.rst    
-    packaging.rst
+    basics.rst    
+    advance.rst

@@ -1,6 +1,6 @@
-*****************
-System Operations
-*****************
+****************
+Basic Operations
+****************
 
 ..  toctree::
     :maxdepth: 2

@@ -18,11 +18,9 @@ Contents:
     AIX/main.rst
     LINUX/main.rst
     DOCKER/main.rst
-    SOFTLAYER/main.rst
     PYTHON/main.rst
     BASH/main.rst
     CCPP/main.rst
-    PERL/main.rst
     
 Indices and tables
 ==================
