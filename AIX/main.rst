@@ -1,6 +1,6 @@
-********
-AIX Unix
-********
+***
+AIX
+***
 
 ..  toctree::
     :maxdepth: 2
