@@ -7,8 +7,6 @@
    :height: 400px
    :width: 225px
 
-   "i dedicate all these documentations to my 2 year old son Eigenfield!"
-
 Contents:
 =========
 
