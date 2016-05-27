@@ -16,9 +16,11 @@ Contents:
     :maxdepth: 2
 
     UNIX/main.rst
-    PYTHON/main.rst
-    BASH/main.rst
-    CCPP/main.rst
+    SHELLS/main.rst
+    SCRIPTING/main.rst
+    PROGRAMMING/main.rst
+    IOT/main.rst
+    REDIS/main.rst
     DOCKER/main.rst
     
 Indices and tables
