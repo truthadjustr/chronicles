@@ -15,8 +15,7 @@ Contents:
 ..  toctree::
     :maxdepth: 2
 
-    AIX/main.rst
-    LINUX/main.rst
+    UNIX/main.rst
     PYTHON/main.rst
     BASH/main.rst
     CCPP/main.rst
