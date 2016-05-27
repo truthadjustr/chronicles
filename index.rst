@@ -19,6 +19,7 @@ Contents:
     PYTHON/main.rst
     BASH/main.rst
     CCPP/main.rst
+    DOCKER/main.rst
     
 Indices and tables
 ==================
