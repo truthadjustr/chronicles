@@ -6,8 +6,6 @@
 Contents:
 =========
 
-Sub-1Hz
-
 ..  toctree::
     :maxdepth: 2
 
