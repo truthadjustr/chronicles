@@ -6,6 +6,8 @@
 Contents:
 =========
 
+Welcome.
+
 ..  toctree::
     :maxdepth: 2
 
