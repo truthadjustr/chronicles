@@ -1,6 +1,6 @@
-******
-SHELLS
-******
+*********
+ANALYTICS
+*********
 
 ..  toctree::
     :maxdepth: 2
