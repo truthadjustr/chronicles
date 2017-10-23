@@ -11,6 +11,7 @@ Welcome.
 ..  toctree::
     :maxdepth: 2
 
+    ANALYTICS/main.rst
     UNIX/main.rst
     SHELLS/main.rst
     SCRIPTING/main.rst
